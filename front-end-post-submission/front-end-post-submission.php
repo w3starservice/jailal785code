@@ -5,7 +5,7 @@
 /*
 Plugin Name: Fornt End Post Submission
 Plugin URI: https://xtendify.com/
-Description: User submit post from fornt end
+Description: User submit post from fornt end, use shortcode [wpfeps] in page.
 Version: 1.0.0
 Author: jailal785
 Author URI: https://xtendify.com/
