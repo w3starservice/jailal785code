@@ -7,7 +7,7 @@ Plugin Name: Fornt End Post Submission
 Plugin URI: https://xtendify.com/
 Description: User submit post from fornt end
 Version: 1.0.0
-Author: Xtendify
+Author: jailal785
 Author URI: https://xtendify.com/
 License: GPLv2 or later
 Text Domain: xtendify
