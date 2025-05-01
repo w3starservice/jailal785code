@@ -1,16 +1,16 @@
 <?php
 /**
- * @package Xtendify
+ * @package Demo
  */
 /*
 Plugin Name: Fornt End Post Submission
-Plugin URI: https://xtendify.com/
+Plugin URI: https://example.com/
 Description: User submit post from fornt end, use shortcode [wpfeps] in page.
 Version: 1.0.0
 Author: jailal785
-Author URI: https://xtendify.com/
+Author URI: https://example.com/
 License: GPLv2 or later
-Text Domain: xtendify
+Text Domain: example
 */
 
 // Exit if accessed directly.
